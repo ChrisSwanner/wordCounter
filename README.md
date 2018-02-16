@@ -8,7 +8,7 @@ _Allows the user to determine word count from a pair of inputs (input 1 is a sin
 
 ## Setup/Installation
 
-_Files can be cloned from https://github.com/andrewniekamp/word-counter.git and run in a browser (requires a server environment)._
+_Files can be cloned from https://github.com/chrisswanner/wordCounter and run in a browser (requires a server environment)._
 
 ## Specifications
 | Behavior | Input Example 1 | Input Example 2 |  Output Example  | Simplicity Justification |
